@@ -1,0 +1,29 @@
+{
+  "name": "glogg",
+  "version": "1.0.0",
+  "description": "Gulp Team <team@gulpjs.com> (http://gulpjs.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agi-Source-Code/glogg.git"
+  },
+  "devDependencies": {
+    "sparkles": "git://github.com/Agi-Source-Code/sparkles.git"
+  },
+  "keywords": [
+    "global",
+    "log",
+    "logger",
+    "logging",
+    "shared"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agi-Source-Code/glogg/issues"
+  },
+  "homepage": "https://github.com/Agi-Source-Code/glogg#readme"
+}
